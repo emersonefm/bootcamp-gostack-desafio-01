@@ -61,14 +61,7 @@ $ yarn install
 
 # Rodar a aplicação
 $ yarn start
-```
 
-## :memo: Licença
-Este projeto está sob a licença do MIT . Veja a [LICENÇA](https://github.com/mlg404/bootcamp-goStack-desafio-01/blob/master/LICENSE) para mais informações.
-
----
-
-Feito com 💙 por Victor Eyer :wave: [Entre em contato!](https://www.linkedin.com/in/victoreyer/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
