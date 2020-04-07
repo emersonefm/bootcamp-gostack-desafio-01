@@ -43,7 +43,7 @@ Para clonar e usar esta aplicação, você precisará do [Git](https://git-scm.c
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/mlg404/bootcamp-goStack-desafio-01.git desafio-01
+$ git clone https://github.com/emersonefm/bootcamp-gostack-desafio-01 desafio-01
 
 # Aceder a este repositório
 $ cd desafio-01
