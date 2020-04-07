@@ -29,7 +29,7 @@
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :rocket: Tehnologias
+## :rocket: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
