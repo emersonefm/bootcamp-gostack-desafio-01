@@ -27,14 +27,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="Web Gif" src="https://i.imgur.com/aWRCHE7.gif">
-  <img alt="Web Gif" src="https://i.imgur.com/yslzhaC.gif">
-  <img alt="Web Gif" src="https://i.imgur.com/XhNiNln.gif">
-  <img alt="Web Gif" src="https://i.imgur.com/t2gi2KS.gif">
 </p>
 
 ## :rocket: Tehnologias
@@ -61,10 +53,3 @@ $ yarn install
 
 # Rodar a aplicação
 $ yarn start
-
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
