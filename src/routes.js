@@ -10,7 +10,6 @@ function projectExists(req, res, next) {
   if (!projeto){
     return res.status(400).json({ message: "Projeto não encontrado." })
   }
-
   return next();
 }
 

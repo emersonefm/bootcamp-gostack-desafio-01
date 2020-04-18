@@ -11,6 +11,4 @@ function requestCount(req, res, next){
 server.use(express.json());
 server.use(requestCount)
 server.use(routes);
-
-
 server.listen(3000, ()=>console.log('Listening...'));
