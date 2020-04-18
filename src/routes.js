@@ -6,7 +6,6 @@ const projects = [];
 function projectExists(req, res, next) {
   const { id } = req.params;
   const projeto = projects.find(element => element.id == id);
-
   if (!projeto){
     return res.status(400).json({ message: "Projeto não encontrado." })
   }

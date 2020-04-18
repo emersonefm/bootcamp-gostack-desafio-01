@@ -1,6 +1,5 @@
 const express = require('express');
 const routes = require('./routes')
-
 const server = express();
 
 function requestCount(req, res, next){
